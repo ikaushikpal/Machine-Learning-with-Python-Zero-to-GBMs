@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "python_sklearn_linear_regression.ipynb": {
+      "slug": "922272917cbe401fa6e5bc2351eeb1e1"
+    }
+  }
 }
